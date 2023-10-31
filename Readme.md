@@ -1,4 +1,4 @@
- # Project :To Do List
+# Project :To Do List
 
 ## Live at:  https://umutplvn.github.io/ToDoList/
 
@@ -19,7 +19,3 @@
 ## Steps to Solution
   
 - Create project folder for local public repo on your pc
-
-
-
-<p align="center"><strong> ⌛ Happy Coding  ✍</strong> </p>
