@@ -1,7 +1,5 @@
 # Project :To Do List
 
-## Live at:  https://umutplvn.github.io/ToDoList/
-
 ## Description
 - Create a To Do List.
 - Design the page with CSS shown in the image.
